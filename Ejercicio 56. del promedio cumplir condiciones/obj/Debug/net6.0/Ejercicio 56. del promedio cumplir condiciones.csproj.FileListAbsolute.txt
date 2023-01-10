@@ -1,0 +1,15 @@
+C:\Users\master\source\repos\Ejercicio 56. del promedio cumplir condiciones\Ejercicio 56. del promedio cumplir condiciones\bin\Debug\net6.0\Ejercicio 56. del promedio cumplir condiciones.exe
+C:\Users\master\source\repos\Ejercicio 56. del promedio cumplir condiciones\Ejercicio 56. del promedio cumplir condiciones\bin\Debug\net6.0\Ejercicio 56. del promedio cumplir condiciones.deps.json
+C:\Users\master\source\repos\Ejercicio 56. del promedio cumplir condiciones\Ejercicio 56. del promedio cumplir condiciones\bin\Debug\net6.0\Ejercicio 56. del promedio cumplir condiciones.runtimeconfig.json
+C:\Users\master\source\repos\Ejercicio 56. del promedio cumplir condiciones\Ejercicio 56. del promedio cumplir condiciones\bin\Debug\net6.0\Ejercicio 56. del promedio cumplir condiciones.dll
+C:\Users\master\source\repos\Ejercicio 56. del promedio cumplir condiciones\Ejercicio 56. del promedio cumplir condiciones\bin\Debug\net6.0\Ejercicio 56. del promedio cumplir condiciones.pdb
+C:\Users\master\source\repos\Ejercicio 56. del promedio cumplir condiciones\Ejercicio 56. del promedio cumplir condiciones\obj\Debug\net6.0\Ejercicio 56. del promedio cumplir condiciones.csproj.AssemblyReference.cache
+C:\Users\master\source\repos\Ejercicio 56. del promedio cumplir condiciones\Ejercicio 56. del promedio cumplir condiciones\obj\Debug\net6.0\Ejercicio 56. del promedio cumplir condiciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\master\source\repos\Ejercicio 56. del promedio cumplir condiciones\Ejercicio 56. del promedio cumplir condiciones\obj\Debug\net6.0\Ejercicio 56. del promedio cumplir condiciones.AssemblyInfoInputs.cache
+C:\Users\master\source\repos\Ejercicio 56. del promedio cumplir condiciones\Ejercicio 56. del promedio cumplir condiciones\obj\Debug\net6.0\Ejercicio 56. del promedio cumplir condiciones.AssemblyInfo.cs
+C:\Users\master\source\repos\Ejercicio 56. del promedio cumplir condiciones\Ejercicio 56. del promedio cumplir condiciones\obj\Debug\net6.0\Ejercicio 56. del promedio cumplir condiciones.csproj.CoreCompileInputs.cache
+C:\Users\master\source\repos\Ejercicio 56. del promedio cumplir condiciones\Ejercicio 56. del promedio cumplir condiciones\obj\Debug\net6.0\Ejercicio 56. del promedio cumplir condiciones.dll
+C:\Users\master\source\repos\Ejercicio 56. del promedio cumplir condiciones\Ejercicio 56. del promedio cumplir condiciones\obj\Debug\net6.0\refint\Ejercicio 56. del promedio cumplir condiciones.dll
+C:\Users\master\source\repos\Ejercicio 56. del promedio cumplir condiciones\Ejercicio 56. del promedio cumplir condiciones\obj\Debug\net6.0\Ejercicio 56. del promedio cumplir condiciones.pdb
+C:\Users\master\source\repos\Ejercicio 56. del promedio cumplir condiciones\Ejercicio 56. del promedio cumplir condiciones\obj\Debug\net6.0\Ejercicio 56. del promedio cumplir condiciones.genruntimeconfig.cache
+C:\Users\master\source\repos\Ejercicio 56. del promedio cumplir condiciones\Ejercicio 56. del promedio cumplir condiciones\obj\Debug\net6.0\ref\Ejercicio 56. del promedio cumplir condiciones.dll
